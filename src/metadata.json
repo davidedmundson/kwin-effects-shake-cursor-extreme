@@ -1,0 +1,19 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "vlad.zahorodnii@kde.org",
+                "Name": "Vlad Zahorodnii"
+            },
+            {
+                "Email": "davidedmundson@kde.org",
+                "Name": "David Edmundson"
+            }
+        ],
+        "Category": "Accessibility",
+        "Description": "More effects on the classic shake",
+        "EnabledByDefault": false,
+        "License": "GPL",
+        "Name": "Shake Mouse Effect Extreme"
+    }
+}
