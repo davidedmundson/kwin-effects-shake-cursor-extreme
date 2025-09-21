@@ -1,9 +1,11 @@
 # New Shake Cursor effect
 
-This is a silly project designed as a somewhat satirical response to the regular comments about the shake cursor effect and taking it to the conclusion of being more extreme.
+This is a silly project designed as a somewhat satirical response to the regular comments about the shake cursor effect and taking it to the conclusion of being more extreme with some smoke effects.
+
+![App Screenshot](./images/screenshot.png)
 
 I don't intend to merge upstream (as it has no utility) nor to maintain this. It was mocked up one evening during Akademy.
-However feel free to have a play or do something fun with it.
+However feel free to have a play or make it better and run with it.
 
 ## Building from Git
 
